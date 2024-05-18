@@ -43,4 +43,4 @@ Loan Application: Users can apply for loans, and the system calculates the total
 Admin Control: Admins can update the interest rate, which affects all new loan applications.
 Menu Interface: The program uses a simple text-based menu system to interact with the user and admin, making it easy to navigate and use.
  
-This system was designed by these people: Yaşar Berat Esmek 231504046, İbrahim Halil Uğur 231504807, Wissam Alkanj 235049156
+This system was designed by: Yaşar Berat Esmek 231504046
